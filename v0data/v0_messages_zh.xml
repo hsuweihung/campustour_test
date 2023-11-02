@@ -1,0 +1,1645 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<krpano>
+
+<!-- ************************ -->
+<!--         Messages         -->
+<!-- ************************ -->
+
+  <data name="zh_project_title"><![CDATA[國立陽明交通大學 360虛擬校園平台]]></data>
+
+
+
+  <data name="zh_pano710_title"><![CDATA[陽明校門口_封面]]></data>
+
+  <data name="zh_panogroup170_title"><![CDATA[陽明校區]]></data>
+
+  <data name="zh_pano164_title"><![CDATA[陽明校門口]]></data>
+  <data name="zh_spotpoint238_tooltip"><![CDATA[醫學大樓]]></data>
+  <data name="zh_pano165_title"><![CDATA[實驗大樓]]></data>
+  <data name="zh_spotpoint257_tooltip"><![CDATA[<div
+        style="
+               border-radius: 5px;
+            color: white;
+             background-color: rgba(0,41,143,0.8);
+           
+            letter-spacing: 0.1em; 
+            width: fit-content;
+               
+              text-align:center;">
+        <div 
+            style="
+            text-shadow: 0 0 0.6em RGB(0 0 0 / 0.75);">
+            <div 
+                style="font-weight: 600;
+                    font-size: 16px;
+                    padding:6px 10px 3px 10px;">
+生醫工程分析實驗室</div>
+            <div 
+                style="font-weight: 500;   
+                    padding: 3.5px;
+                      ">
+   
+            </div>
+        </div>
+</div>]]></data>
+  <data name="zh_spotpoint258_tooltip"><![CDATA[醫學大樓]]></data>
+  <data name="zh_pano166_title"><![CDATA[醫學大樓]]></data>
+  <data name="zh_spotpoint239_tooltip"><![CDATA[活動中心]]></data>
+  <data name="zh_spotpoint240_tooltip"><![CDATA[陽明校門口]]></data>
+  <data name="zh_spotpoint241_tooltip"><![CDATA[<div
+        style="
+               border-radius: 5px;
+            color: white;
+             background-color: rgba(0,41,143,0.8);
+           
+            letter-spacing: 0.1em; 
+            width: fit-content;
+               
+            transform: translateX(15%);
+              text-align:center;">
+        <div 
+            style="
+            text-shadow: 0 0 0.6em RGB(0 0 0 / 0.75);">
+            <div 
+                style="font-weight: 600;
+                    font-size: 16px;
+                    padding:6px 10px 3px 10px;">
+腫瘤惡化<br>卓越研究中心</div>
+            <div 
+                style="font-weight: 500;   
+                    padding: 3.5px;
+                      ">
+   
+            </div>
+        </div>
+</div>]]></data>
+  <data name="zh_spotpoint534_tooltip"><![CDATA[實驗大樓]]></data>
+  <data name="zh_pano919_title"><![CDATA[活動中心]]></data>
+  <data name="zh_spotpoint926_tooltip"><![CDATA[實驗大樓]]></data>
+
+  <data name="zh_panogroup138_title"><![CDATA[光復校區]]></data>
+
+  <data name="zh_pano127_title"><![CDATA[公車區]]></data>
+  <data name="zh_spotpoint160_tooltip"><![CDATA[竹湖]]></data>
+  <data name="zh_spotpoint245_tooltip"><![CDATA[浩然圖書館]]></data>
+  <data name="zh_spotpoint248_tooltip"><![CDATA[六燃大煙囪]]></data>
+  <data name="zh_spotpoint249_tooltip"><![CDATA[科學三館]]></data>
+  <data name="zh_pano131_title"><![CDATA[竹湖]]></data>
+  <data name="zh_spotpoint179_tooltip"><![CDATA[公車區]]></data>
+  <data name="zh_pano163_title"><![CDATA[圖書館]]></data>
+  <data name="zh_spotpoint250_tooltip"><![CDATA[公車區]]></data>
+  <data name="zh_spotpoint251_tooltip"><![CDATA[<div
+        style="
+               border-radius: 5px;
+            color: white;
+             background-color: rgba(0,41,143,0.8);
+           
+            letter-spacing: 0.1em; 
+            width: fit-content;
+               
+              text-align:center;">
+        <div 
+            style="
+            text-shadow: 0 0 0.6em RGB(0 0 0 / 0.75);">
+            <div 
+                style="font-weight: 600;
+                    font-size: 16px;
+                    padding:6px 10px 3px 10px;">
+點擊另開官網連結</div>
+            <div 
+                style="font-weight: 500;   
+                    padding: 3.5px;
+                      ">
+   
+            </div>
+        </div>
+</div>]]></data>
+  <data name="zh_spotpoint251openurlwebsiteurl"><![CDATA[https://www.lib.nycu.edu.tw/]]></data>
+  <data name="zh_pano162_title"><![CDATA[科學三館]]></data>
+  <data name="zh_spotpoint252_tooltip"><![CDATA[<div
+        style="
+               border-radius: 5px;
+            color: white;
+             background-color: rgba(0,41,143,0.8);
+           
+            letter-spacing: 0.1em; 
+            width: fit-content;
+               
+              text-align:center;">
+        <div 
+            style="
+            text-shadow: 0 0 0.6em RGB(0 0 0 / 0.75);">
+            <div 
+                style="font-weight: 600;
+                    font-size: 16px;
+                    padding:6px 10px 3px 10px;">
+量子科技<br>固態雷射物理實驗室</div>
+            <div 
+                style="font-weight: 500;   
+                    padding: 3.5px;
+                      ">
+   
+            </div>
+        </div>
+</div>]]></data>
+  <data name="zh_pano161_title"><![CDATA[六燃大煙囪]]></data>
+  <data name="zh_spotpoint255_tooltip"><![CDATA[<div
+        style="
+               border-radius: 5px;
+            color: white;
+             background-color: rgba(0,41,143,0.8);
+           
+            letter-spacing: 0.1em; 
+            width: fit-content;
+               
+              text-align:center;">
+        <div 
+            style="
+            text-shadow: 0 0 0.6em RGB(0 0 0 / 0.75);">
+            <div 
+                style="font-weight: 600;
+                    font-size: 16px;
+                    padding:6px 10px 3px 10px;">
+前往光復校區</div>
+            <div 
+                style="font-weight: 500;   
+                    padding: 3.5px;
+                      ">
+   
+            </div>
+        </div>
+</div>]]></data>
+  <data name="zh_spotpoint387_tooltip"><![CDATA[<div
+        style="
+               border-radius: 5px;
+            color: white;
+             background-color: rgba(0,41,143,0.8);
+           
+            letter-spacing: 0.1em; 
+            width: fit-content;
+               
+              text-align:center;">
+        <div 
+            style="
+            text-shadow: 0 0 0.6em RGB(0 0 0 / 0.75);">
+            <div 
+                style="font-weight: 600;
+                    font-size: 16px;
+                    padding:6px 10px 3px 10px;">
+霜毛蝠生態推廣</div>
+            <div 
+                style="font-weight: 500;   
+                    padding: 3.5px;
+                      ">
+   
+            </div>
+        </div>
+</div>]]></data>
+  <data name="zh_spotpoint387FrontEndAction|FrontEndAction|callevent_text"><![CDATA[info:sidebar2_A]]></data>
+  <data name="zh_spotpoint388_tooltip"><![CDATA[<div
+        style="
+               border-radius: 5px;
+            color: white;
+             background-color: rgba(0,41,143,0.8);
+           
+            letter-spacing: 0.1em; 
+            width: fit-content;
+               
+              text-align:center;">
+        <div 
+            style="
+            text-shadow: 0 0 0.6em RGB(0 0 0 / 0.75);">
+            <div 
+                style="font-weight: 600;
+                    font-size: 16px;
+                    padding:6px 10px 3px 10px;">
+保溫睦鄰計畫</div>
+            <div 
+                style="font-weight: 500;   
+                    padding: 3.5px;
+                      ">
+   
+            </div>
+        </div>
+</div>]]></data>
+  <data name="zh_spotpoint388FrontEndAction|FrontEndAction|callevent_text"><![CDATA[info:sidebar2_B]]></data>
+  <data name="zh_spotpoint389_tooltip"><![CDATA[<div
+        style="
+               border-radius: 5px;
+            color: white;
+             background-color: rgba(0,41,143,0.8);
+           
+            letter-spacing: 0.1em; 
+            width: fit-content;
+               
+              text-align:center;">
+        <div 
+            style="
+            text-shadow: 0 0 0.6em RGB(0 0 0 / 0.75);">
+            <div 
+                style="font-weight: 600;
+                    font-size: 16px;
+                    padding:6px 10px 3px 10px;">
+社區保溫雞舍</div>
+            <div 
+                style="font-weight: 500;   
+                    padding: 3.5px;
+                      ">
+   
+            </div>
+        </div>
+</div>]]></data>
+  <data name="zh_spotpoint389FrontEndAction|FrontEndAction|callevent_text"><![CDATA[info:sidebar2_C]]></data>
+  <data name="zh_spotpoint390_tooltip"><![CDATA[<div
+        style="
+               border-radius: 5px;
+            color: white;
+             background-color: rgba(0,41,143,0.8);
+           
+            letter-spacing: 0.1em; 
+            width: fit-content;
+               
+              text-align:center;">
+        <div 
+            style="
+            text-shadow: 0 0 0.6em RGB(0 0 0 / 0.75);">
+            <div 
+                style="font-weight: 600;
+                    font-size: 16px;
+                    padding:6px 10px 3px 10px;">
+新竹六燃科技眷村歷史</div>
+            <div 
+                style="font-weight: 500;   
+                    padding: 3.5px;
+                      ">
+   
+            </div>
+        </div>
+</div>]]></data>
+  <data name="zh_spotpoint390FrontEndAction|FrontEndAction|callevent_text"><![CDATA[info:sidebar2_D]]></data>
+  <data name="zh_spotpoint391_tooltip"><![CDATA[<div
+        style="
+               border-radius: 5px;
+            color: white;
+             background-color: rgba(0,41,143,0.8);
+           
+            letter-spacing: 0.1em; 
+            width: fit-content;
+               
+              text-align:center;">
+        <div 
+            style="
+            text-shadow: 0 0 0.6em RGB(0 0 0 / 0.75);">
+            <div 
+                style="font-weight: 600;
+                    font-size: 16px;
+                    padding:6px 10px 3px 10px;">
+六燃國際互動劇場</div>
+            <div 
+                style="font-weight: 500;   
+                    padding: 3.5px;
+                      ">
+   
+            </div>
+        </div>
+</div>]]></data>
+  <data name="zh_spotpoint391FrontEndAction|FrontEndAction|callevent_text"><![CDATA[info:sidebar2_E]]></data>
+  <data name="zh_spotpolygon1330FrontEndAction|FrontEndAction|callevent_text"><![CDATA[info:sidebar2_A]]></data>
+  <data name="zh_spotpolygon1331FrontEndAction|FrontEndAction|callevent_text"><![CDATA[info:sidebar2_B]]></data>
+  <data name="zh_spotpolygon1332FrontEndAction|FrontEndAction|callevent_text"><![CDATA[info:sidebar2_C]]></data>
+  <data name="zh_spotpolygon1333FrontEndAction|FrontEndAction|callevent_text"><![CDATA[info:sidebar2_D]]></data>
+  <data name="zh_spotpolygon1334FrontEndAction|FrontEndAction|callevent_text"><![CDATA[info:sidebar2_E]]></data>
+  <data name="zh_spotpoint1366_tooltip"><![CDATA[<div
+        style="
+               border-radius: 5px;
+            color: white;
+             background-color: rgba(0,41,143,0.8);
+           
+            letter-spacing: 0.1em; 
+            width: fit-content;
+               
+              text-align:center;">
+        <div 
+            style="
+            text-shadow: 0 0 0.6em RGB(0 0 0 / 0.75);">
+            <div 
+                style="font-weight: 600;
+                    font-size: 16px;
+                    padding:6px 10px 3px 10px;">
+前往博愛校區</div>
+            <div 
+                style="font-weight: 500;   
+                    padding: 3.5px;
+                      ">
+   
+            </div>
+        </div>
+</div>]]></data>
+
+  <data name="zh_panogroup38_title"><![CDATA[Group 38]]></data>
+
+  <data name="zh_pano31_title"><![CDATA[固態雷射物理實驗室]]></data>
+  <data name="zh_spotpoint395_tooltip"><![CDATA[<div
+        style="
+               border-radius: 5px;
+            color: white;
+             background-color: rgba(0,41,143,0.8);
+           
+            letter-spacing: 0.1em; 
+            width: fit-content;
+               
+              text-align:center;">
+        <div 
+            style="
+            text-shadow: 0 0 0.6em RGB(0 0 0 / 0.75);">
+            <div 
+                style="font-weight: 600;
+                    font-size: 16px;
+                    padding:6px 10px 3px 10px;">
+              固態雷射系統
+            </div>
+            <div 
+                style="font-weight: 500;   
+                    padding: 3.5px;
+                      ">
+   
+            </div>
+        </div>
+</div>]]></data>
+  <data name="zh_spotpoint395FrontEndAction|FrontEndAction|callevent_text"><![CDATA[info:sidebar5_A]]></data>
+  <data name="zh_spotpoint397_tooltip"><![CDATA[<div
+        style="
+               border-radius: 5px;
+            color: white;
+             background-color: rgba(0,41,143,0.8);
+           
+            letter-spacing: 0.1em; 
+            width: fit-content;
+               
+              text-align:center;">
+        <div 
+            style="
+            text-shadow: 0 0 0.6em RGB(0 0 0 / 0.75);">
+            <div 
+                style="font-weight: 600;
+                    font-size: 16px;
+                    padding:3px 10px 3px 10px;">
+               IDS<br>(整合性雷射傳輸系統)
+            </div>
+            <div 
+                style="font-weight: 500;   
+                    padding: 3.5px;
+                      ">
+   
+            </div>
+        </div>
+</div>]]></data>
+  <data name="zh_spotpoint397FrontEndAction|FrontEndAction|callevent_text"><![CDATA[info:sidebar5_C]]></data>
+  <data name="zh_spotpoint398_tooltip"><![CDATA[<div
+        style="
+               border-radius: 5px;
+            color: white;
+             background-color: rgba(0,41,143,0.8);
+           
+            letter-spacing: 0.1em; 
+            width: fit-content;
+              text-align:center;">
+        <div 
+            style="
+            text-shadow: 0 0 0.6em RGB(0 0 0 / 0.75);">
+            <div 
+                style="font-weight: 600;
+                    font-size: 16px;
+                    padding:6px 10px 3px 10px;">
+              Console
+            </div>
+            <div 
+                style="font-weight: 500;   
+                    padding: 3.5px;
+                      ">
+   
+            </div>
+        </div>
+</div>]]></data>
+  <data name="zh_spotpoint398FrontEndAction|FrontEndAction|callevent_text"><![CDATA[info:sidebar5_D]]></data>
+  <data name="zh_spotpoint399_tooltip"><![CDATA[<div
+        style="
+               border-radius: 5px;
+            color: white;
+             background-color: rgba(0,41,143,0.8);
+           
+            letter-spacing: 0.1em; 
+            width: fit-content;
+               
+              text-align:center;">
+        <div 
+            style="
+            text-shadow: 0 0 0.6em RGB(0 0 0 / 0.75);">
+            <div 
+                style="font-weight: 600;
+                    font-size: 16px;
+                    padding:6px 10px 3px 10px;">
+              Power meter
+            </div>
+            <div 
+                style="font-weight: 500;   
+                    padding: 3.5px;
+                      ">
+   
+            </div>
+        </div>
+</div>]]></data>
+  <data name="zh_spotpoint399FrontEndAction|FrontEndAction|callevent_text"><![CDATA[info:sidebar5_E]]></data>
+  <data name="zh_spotpolygon1350FrontEndAction|FrontEndAction|callevent_text"><![CDATA[info:sidebar5_C]]></data>
+  <data name="zh_spotpolygon1351FrontEndAction|FrontEndAction|callevent_text"><![CDATA[info:sidebar5_D]]></data>
+  <data name="zh_spotpolygon1352FrontEndAction|FrontEndAction|callevent_text"><![CDATA[info:sidebar5_E]]></data>
+  <data name="zh_spotpolygon1353FrontEndAction|FrontEndAction|callevent_text"><![CDATA[info:sidebar5_A]]></data>
+
+  <data name="zh_panogroup39_title"><![CDATA[前瞻火箭研究中心]]></data>
+
+  <data name="zh_pano33_title"><![CDATA[A03]]></data>
+  <data name="zh_spotpoint392_tooltip"><![CDATA[<div
+        style="
+               border-radius: 5px;
+            color: white;
+             background-color: rgba(0,41,143,0.8);
+           
+            letter-spacing: 0.1em; 
+            width: fit-content;
+               
+              text-align:center;">
+        <div 
+            style="
+            text-shadow: 0 0 0.6em RGB(0 0 0 / 0.75);">
+            <div 
+                style="font-weight: 600;
+                    font-size: 16px;
+                    padding:6px 10px 3px 10px;">
+航電系統無塵室            </div>
+            <div 
+                style="font-weight: 500;   
+                    padding: 3.5px;
+                      ">
+   
+            </div>
+        </div>
+</div>]]></data>
+  <data name="zh_spotpoint392FrontEndAction|FrontEndAction|callevent_text"><![CDATA[info:sidebar1_B]]></data>
+  <data name="zh_spotpoint393_tooltip"><![CDATA[<div
+        style="
+               border-radius: 5px;
+            color: white;
+             background-color: rgba(0,41,143,0.8);
+           
+            letter-spacing: 0.1em; 
+            width: fit-content;
+               
+              text-align:center;">
+        <div 
+            style="
+            text-shadow: 0 0 0.6em RGB(0 0 0 / 0.75);">
+            <div 
+                style="font-weight: 600;
+                    font-size: 16px;
+                    padding:6px 10px 3px 10px;">
+三軸旋轉平台無塵室            </div>
+            <div 
+                style="font-weight: 500;   
+                    padding: 3.5px;
+                      ">
+   
+            </div>
+        </div>
+</div>]]></data>
+  <data name="zh_spotpoint393FrontEndAction|FrontEndAction|callevent_text"><![CDATA[info:sidebar1_A]]></data>
+  <data name="zh_spotpolygon1358FrontEndAction|FrontEndAction|callevent_text"><![CDATA[info:sidebar1_A]]></data>
+  <data name="zh_spotpolygon1359FrontEndAction|FrontEndAction|callevent_text"><![CDATA[info:sidebar1_B]]></data>
+  <data name="zh_pano32_title"><![CDATA[A02]]></data>
+  <data name="zh_spotpoint296_tooltip"><![CDATA[<div
+        style="
+               border-radius: 5px;
+            color: white;
+             background-color: rgba(0,41,143,0.8);
+           
+            letter-spacing: 0.1em; 
+            width: fit-content;
+               
+              text-align:center;">
+        <div 
+            style="
+            text-shadow: 0 0 0.6em RGB(0 0 0 / 0.75);">
+            <div 
+                style="font-weight: 600;
+                    font-size: 16px;
+                    padding:6px 10px 0px 10px;">
+HTTP-3AT </div>
+            <div 
+                style="font-weight: 500;   
+                    padding: 3px;
+                      ">
+   
+            </div>
+        </div>
+</div>]]></data>
+  <data name="zh_spotpoint296FrontEndAction|FrontEndAction|callevent_text"><![CDATA[info:sidebar1_D]]></data>
+  <data name="zh_spotpoint394_tooltip"><![CDATA[<div
+        style="
+               border-radius: 5px;
+            color: white;
+             background-color: rgba(0,41,143,0.8);
+           
+            letter-spacing: 0.1em; 
+            width: fit-content;
+               
+              text-align:center;">
+        <div 
+            style="
+            text-shadow: 0 0 0.6em RGB(0 0 0 / 0.75);">
+            <div 
+                style="font-weight: 600;
+                    font-size: 16px;
+                    padding:6px 10px 0px 10px;">
+HTTP-4            </div>
+            <div 
+                style="font-weight: 500;   
+                    padding: 3.5px;
+                      ">
+   
+            </div>
+        </div>
+</div>]]></data>
+  <data name="zh_spotpoint394FrontEndAction|FrontEndAction|callevent_text"><![CDATA[info:sidebar1_C]]></data>
+  <data name="zh_spotpolygon1360FrontEndAction|FrontEndAction|callevent_text"><![CDATA[info:sidebar1_C]]></data>
+  <data name="zh_spotpolygon1361FrontEndAction|FrontEndAction|callevent_text"><![CDATA[info:sidebar1_D]]></data>
+
+  <data name="zh_panogroup41_title"><![CDATA[模擬病房]]></data>
+
+  <data name="zh_pano1944_title"><![CDATA[賢齊館大廳b]]></data>
+  <data name="zh_spotpolygon1961_tooltip"><![CDATA[<div
+        style="
+               border-radius: 5px;
+            color: white;
+             background-color: rgba(0,41,143,0.8);
+           
+            letter-spacing: 0.1em; 
+            width: fit-content;
+               
+              text-align:center;">
+        <div 
+            style="
+            text-shadow: 0 0 0.6em RGB(0 0 0 / 0.75);">
+            <div 
+                style="font-weight: 600;
+                    font-size: 16px;
+                    padding:6px 10px 3px 10px;">
+開啟樓層選單</div>
+            <div 
+                style="font-weight: 500;   
+                    padding: 3.5px;
+                      ">
+   
+            </div>
+        </div>
+</div>]]></data>
+  <data name="zh_spotpolygon1961FrontEndAction|FrontEndAction|callevent_text"><![CDATA[elevator:panogroup41]]></data>
+  <data name="zh_spotpoint2137_tooltip"><![CDATA[<div
+        style="
+               border-radius: 5px;
+            color: white;
+             background-color: rgba(0,41,143,0.8);
+           
+            letter-spacing: 0.1em; 
+            width: fit-content;
+               
+              text-align:center;">
+        <div 
+            style="
+            text-shadow: 0 0 0.6em RGB(0 0 0 / 0.75);">
+            <div 
+                style="font-weight: 600;
+                    font-size: 16px;
+                    padding:6px 10px 3px 10px;">
+開啟樓層選單</div>
+            <div 
+                style="font-weight: 500;   
+                    padding: 3.5px;
+                      ">
+   
+            </div>
+        </div>
+</div>]]></data>
+  <data name="zh_spotpoint2137FrontEndAction|FrontEndAction|callevent_text"><![CDATA[elevator:panogroup41]]></data>
+  <data name="zh_spotpoint2139_tooltip"><![CDATA[<div
+        style="
+               border-radius: 5px;
+            color: white;
+             background-color: rgba(0,41,143,0.8);
+           
+            letter-spacing: 0.1em; 
+            width: fit-content;
+               
+              text-align:center;">
+        <div 
+            style="
+            text-shadow: 0 0 0.6em RGB(0 0 0 / 0.75);">
+            <div 
+                style="font-weight: 600;
+                    font-size: 16px;
+                    padding:6px 10px 3px 10px;">
+離開齊賢館</div>
+            <div 
+                style="font-weight: 500;   
+                    padding: 3.5px;
+                      ">
+   
+            </div>
+        </div>
+</div>]]></data>
+  <data name="zh_spotpolygon2148FrontEndAction|FrontEndAction|callevent_text"><![CDATA[elevator:show]]></data>
+  <data name="zh_pano34_title"><![CDATA[A04]]></data>
+  <data name="zh_spotpoint259_tooltip"><![CDATA[<div
+        style="
+               border-radius: 5px;
+            color: white;
+             background-color: rgba(0,41,143,0.8);
+           
+            letter-spacing: 0.1em; 
+            width: fit-content;
+               
+              text-align:center;">
+        <div 
+            style="
+            text-shadow: 0 0 0.6em RGB(0 0 0 / 0.75);">
+            <div 
+                style="font-weight: 600;
+                    font-size: 16px;
+                    padding:6px 10px 3px 10px;">
+防疫小幫手機器人</div>
+            <div 
+                style="font-weight: 500;   
+                    padding: 3.5px;
+                      ">
+   
+            </div>
+        </div>
+</div>]]></data>
+  <data name="zh_spotpoint259FrontEndAction|FrontEndAction|callevent_text"><![CDATA[info:sidebar4_A]]></data>
+  <data name="zh_spotpoint260_tooltip"><![CDATA[<div
+        style="
+               border-radius: 5px;
+            color: white;
+             background-color: rgba(0,41,143,0.8);
+           
+            letter-spacing: 0.1em; 
+            width: fit-content;
+               
+              text-align:center;">
+        <div 
+            style="
+            text-shadow: 0 0 0.6em RGB(0 0 0 / 0.75);">
+            <div 
+                style="font-weight: 600;
+                    font-size: 16px;
+                    padding:6px 10px 3px 10px;">
+智慧報導機</div>
+            <div 
+                style="font-weight: 500;   
+                    padding: 3.5px;
+                      ">
+   
+            </div>
+        </div>
+</div>]]></data>
+  <data name="zh_spotpoint260FrontEndAction|FrontEndAction|callevent_text"><![CDATA[info:sidebar4_B]]></data>
+  <data name="zh_spotpolygon525_tooltip"><![CDATA[<div
+        style="
+               border-radius: 5px;
+            color: white;
+             background-color: rgba(0,41,143,0.8);
+           
+            letter-spacing: 0.1em; 
+            width: fit-content;
+               
+              text-align:center;">
+        <div 
+            style="
+            text-shadow: 0 0 0.6em RGB(0 0 0 / 0.75);">
+            <div 
+                style="font-weight: 600;
+                    font-size: 16px;
+                    padding:6px 10px 3px 10px;">
+觀看影片</div>
+            <div 
+                style="font-weight: 500;   
+                    padding: 3.5px;
+                      ">
+   
+            </div>
+        </div>
+</div>]]></data>
+  <data name="zh_spotpolygon525openurlwebsiteurl"><![CDATA[https://www.youtube.com/watch?v=6Fb-_RIeCpc]]></data>
+  <data name="zh_spotpolygon531_tooltip"><![CDATA[<div
+        style="
+               border-radius: 5px;
+            color: white;
+             background-color: rgba(0,41,143,0.8);
+           
+            letter-spacing: 0.1em; 
+            width: fit-content;
+               
+              text-align:center;">
+        <div 
+            style="
+            text-shadow: 0 0 0.6em RGB(0 0 0 / 0.75);">
+            <div 
+                style="font-weight: 600;
+                    font-size: 16px;
+                    padding:6px 10px 3px 10px;">
+觀看影片</div>
+            <div 
+                style="font-weight: 500;   
+                    padding: 3.5px;
+                      ">
+   
+            </div>
+        </div>
+</div>]]></data>
+  <data name="zh_spotpolygon531openurlwebsiteurl"><![CDATA[https://www.youtube.com/watch?v=6Fb-_RIeCpc]]></data>
+  <data name="zh_spotpolygon532_tooltip"><![CDATA[<div
+        style="
+               border-radius: 5px;
+            color: white;
+             background-color: rgba(0,41,143,0.8);
+           
+            letter-spacing: 0.1em; 
+            width: fit-content;
+               
+              text-align:center;">
+        <div 
+            style="
+            text-shadow: 0 0 0.6em RGB(0 0 0 / 0.75);">
+            <div 
+                style="font-weight: 600;
+                    font-size: 16px;
+                    padding:6px 10px 3px 10px;">
+觀看影片</div>
+            <div 
+                style="font-weight: 500;   
+                    padding: 3.5px;
+                      ">
+   
+            </div>
+        </div>
+</div>]]></data>
+  <data name="zh_spotpolygon532openurlwebsiteurl"><![CDATA[https://www.youtube.com/watch?v=6Fb-_RIeCpc]]></data>
+  <data name="zh_spotpolygon533_tooltip"><![CDATA[<div
+        style="
+               border-radius: 5px;
+            color: white;
+             background-color: rgba(0,41,143,0.8);
+           
+            letter-spacing: 0.1em; 
+            width: fit-content;
+               
+              text-align:center;">
+        <div 
+            style="
+            text-shadow: 0 0 0.6em RGB(0 0 0 / 0.75);">
+            <div 
+                style="font-weight: 600;
+                    font-size: 16px;
+                    padding:6px 10px 3px 10px;">
+觀看影片</div>
+            <div 
+                style="font-weight: 500;   
+                    padding: 3.5px;
+                      ">
+   
+            </div>
+        </div>
+</div>]]></data>
+  <data name="zh_spotpolygon533openurlwebsiteurl"><![CDATA[https://www.youtube.com/watch?v=6Fb-_RIeCpc]]></data>
+  <data name="zh_spotpolygon1346FrontEndAction|FrontEndAction|callevent_text"><![CDATA[info:sidebar4_A]]></data>
+  <data name="zh_spotpolygon1347FrontEndAction|FrontEndAction|callevent_text"><![CDATA[info:sidebar4_B]]></data>
+  <data name="zh_spotpolygon2145_tooltip"><![CDATA[<div
+        style="
+               border-radius: 5px;
+            color: white;
+             background-color: rgba(0,41,143,0.8);
+           
+            letter-spacing: 0.1em; 
+            width: fit-content;
+               
+              text-align:center;">
+        <div 
+            style="
+            text-shadow: 0 0 0.6em RGB(0 0 0 / 0.75);">
+            <div 
+                style="font-weight: 600;
+                    font-size: 16px;
+                    padding:6px 10px 3px 10px;">
+開啟樓層選單</div>
+            <div 
+                style="font-weight: 500;   
+                    padding: 3.5px;
+                      ">
+   
+            </div>
+        </div>
+</div>]]></data>
+  <data name="zh_spotpolygon2145FrontEndAction|FrontEndAction|callevent_text"><![CDATA[elevator:panogroup41]]></data>
+  <data name="zh_spotpoint2146_tooltip"><![CDATA[<div
+        style="
+               border-radius: 5px;
+            color: white;
+             background-color: rgba(0,41,143,0.8);
+           
+            letter-spacing: 0.1em; 
+            width: fit-content;
+               
+              text-align:center;">
+        <div 
+            style="
+            text-shadow: 0 0 0.6em RGB(0 0 0 / 0.75);">
+            <div 
+                style="font-weight: 600;
+                    font-size: 16px;
+                    padding:6px 10px 3px 10px;">
+開啟樓層選單</div>
+            <div 
+                style="font-weight: 500;   
+                    padding: 3.5px;
+                      ">
+   
+            </div>
+        </div>
+</div>]]></data>
+  <data name="zh_spotpoint2146FrontEndAction|FrontEndAction|callevent_text"><![CDATA[elevator:panogroup41]]></data>
+  <data name="zh_spotpolygon2147FrontEndAction|FrontEndAction|callevent_text"><![CDATA[elevator:show]]></data>
+  <data name="zh_pano45_title"><![CDATA[A05]]></data>
+  <data name="zh_pano46_title"><![CDATA[A06]]></data>
+  <data name="zh_spotpoint263_tooltip"><![CDATA[<div
+        style="
+               border-radius: 5px;
+            color: white;
+             background-color: rgba(0,41,143,0.8);
+           
+            letter-spacing: 0.1em; 
+            width: fit-content;
+               
+              text-align:center;">
+        <div 
+            style="
+            text-shadow: 0 0 0.6em RGB(0 0 0 / 0.75);">
+            <div 
+                style="font-weight: 600;
+                    font-size: 16px;
+                    padding:6px 10px 3px 10px;">
+智慧防跌偵測器</div>
+            <div 
+                style="font-weight: 500;   
+                    padding: 3.5px;
+                      ">
+   
+            </div>
+        </div>
+</div>]]></data>
+  <data name="zh_spotpoint263FrontEndAction|FrontEndAction|callevent_text"><![CDATA[info:sidebar4_C]]></data>
+  <data name="zh_spotpoint266_tooltip"><![CDATA[<div
+        style="
+               border-radius: 5px;
+            color: white;
+             background-color: rgba(0,41,143,0.8);
+           
+            letter-spacing: 0.1em; 
+            width: fit-content;
+               
+              text-align:center;">
+        <div 
+            style="
+            text-shadow: 0 0 0.6em RGB(0 0 0 / 0.75);">
+            <div 
+                style="font-weight: 600;
+                    font-size: 16px;
+                    padding:6px 10px 3px 10px;">
+智慧感知墊</div>
+            <div 
+                style="font-weight: 500;   
+                    padding: 3.5px;
+                      ">
+   
+            </div>
+        </div>
+</div>]]></data>
+  <data name="zh_spotpoint266FrontEndAction|FrontEndAction|callevent_text"><![CDATA[info:sidebar4_D]]></data>
+  <data name="zh_spotpoint268_tooltip"><![CDATA[<div
+        style="
+               border-radius: 5px;
+            color: white;
+             background-color: rgba(0,41,143,0.8);
+           
+            letter-spacing: 0.1em; 
+            width: fit-content;
+               
+              text-align:center;">
+        <div 
+            style="
+            text-shadow: 0 0 0.6em RGB(0 0 0 / 0.75);">
+            <div 
+                style="font-weight: 600;
+                    font-size: 16px;
+                    padding:6px 10px 3px 10px;">
+高速5G專速</div>
+            <div 
+                style="font-weight: 500;   
+                    padding: 3.5px;
+                      ">
+   
+            </div>
+        </div>
+</div>]]></data>
+  <data name="zh_spotpoint268FrontEndAction|FrontEndAction|callevent_text"><![CDATA[info:sidebar4_E]]></data>
+  <data name="zh_spotpolygon726_tooltip"><![CDATA[<div
+        style="
+               border-radius: 5px;
+            color: white;
+             background-color: rgba(0,41,143,0.8);
+           
+            letter-spacing: 0.1em; 
+            width: fit-content;
+               
+              text-align:center;">
+        <div 
+            style="
+            text-shadow: 0 0 0.6em RGB(0 0 0 / 0.75);">
+            <div 
+                style="font-weight: 600;
+                    font-size: 16px;
+                    padding:6px 10px 3px 10px;">
+觀看影片</div>
+            <div 
+                style="font-weight: 500;   
+                    padding: 3.5px;
+                      ">
+   
+            </div>
+        </div>
+</div>]]></data>
+  <data name="zh_spotpolygon726openurlwebsiteurl"><![CDATA[https://www.youtube.com/watch?v=6Fb-_RIeCpc]]></data>
+  <data name="zh_spotpolygon1130FrontEndAction|FrontEndAction|callevent_text"><![CDATA[info:sidebar4_C]]></data>
+  <data name="zh_spotpolygon1348FrontEndAction|FrontEndAction|callevent_text"><![CDATA[info:sidebar4_E]]></data>
+  <data name="zh_spotpolygon1349FrontEndAction|FrontEndAction|callevent_text"><![CDATA[info:sidebar4_D]]></data>
+
+  <data name="zh_panogroup44_title"><![CDATA[Group 44]]></data>
+
+  <data name="zh_pano37_title"><![CDATA[銀髮健身俱樂部]]></data>
+  <data name="zh_spotpoint290_tooltip"><![CDATA[<div
+        style="
+               border-radius: 5px;
+            color: white;
+             background-color: rgba(0,41,143,0.8);
+           
+            letter-spacing: 0.1em; 
+            width: fit-content;
+               
+              text-align:center;">
+        <div 
+            style="
+            text-shadow: 0 0 0.6em RGB(0 0 0 / 0.75);">
+            <div 
+                style="font-weight: 600;
+                    font-size: 16px;
+                    padding:6px 10px 3px 10px;">
+肩胛活化機            </div>
+            <div 
+                style="font-weight: 500;   
+                    padding: 3.5px;
+                      ">
+   
+            </div>
+        </div>
+</div>]]></data>
+  <data name="zh_spotpoint290FrontEndAction|FrontEndAction|callevent_text"><![CDATA[info:sidebar6_A]]></data>
+  <data name="zh_spotpoint291_tooltip"><![CDATA[<div
+        style="
+               border-radius: 5px;
+            color: white;
+             background-color: rgba(0,41,143,0.8);
+           
+            letter-spacing: 0.1em; 
+            width: fit-content;
+               
+              text-align:center;">
+        <div 
+            style="
+            text-shadow: 0 0 0.6em RGB(0 0 0 / 0.75);">
+            <div 
+                style="font-weight: 600;
+                    font-size: 16px;
+                    padding:6px 10px 3px 10px;">
+平衡強化機            </div>
+            <div 
+                style="font-weight: 500;   
+                    padding: 3.5px;
+                      ">
+   
+            </div>
+        </div>
+</div>]]></data>
+  <data name="zh_spotpoint291FrontEndAction|FrontEndAction|callevent_text"><![CDATA[info:sidebar6_B]]></data>
+  <data name="zh_spotpoint292_tooltip"><![CDATA[<div
+        style="
+               border-radius: 5px;
+            color: white;
+             background-color: rgba(0,41,143,0.8);
+           
+            letter-spacing: 0.1em; 
+            width: fit-content;
+               
+              text-align:center;">
+        <div 
+            style="
+            text-shadow: 0 0 0.6em RGB(0 0 0 / 0.75);">
+            <div 
+                style="font-weight: 600;
+                    font-size: 16px;
+                    padding:6px 10px 3px 10px;">
+全身活化機            </div>
+            <div 
+                style="font-weight: 500;   
+                    padding: 3.5px;
+                      ">
+   
+            </div>
+        </div>
+</div>]]></data>
+  <data name="zh_spotpoint292FrontEndAction|FrontEndAction|callevent_text"><![CDATA[info:sidebar6_C]]></data>
+  <data name="zh_spotpoint293_tooltip"><![CDATA[<div
+        style="
+               border-radius: 5px;
+            color: white;
+             background-color: rgba(0,41,143,0.8);
+           
+            letter-spacing: 0.1em; 
+            width: fit-content;
+               
+              text-align:center;">
+        <div 
+            style="
+            text-shadow: 0 0 0.6em RGB(0 0 0 / 0.75);">
+            <div 
+                style="font-weight: 600;
+                    font-size: 16px;
+                    padding:6px 10px 3px 10px;">
+反式深蹲提臀機            </div>
+            <div 
+                style="font-weight: 500;   
+                    padding: 3.5px;
+                      ">
+   
+            </div>
+        </div>
+</div>]]></data>
+  <data name="zh_spotpoint293FrontEndAction|FrontEndAction|callevent_text"><![CDATA[info:sidebar6_D]]></data>
+  <data name="zh_spotpoint294_tooltip"><![CDATA[<div
+        style="
+               border-radius: 5px;
+            color: white;
+             background-color: rgba(0,41,143,0.8);
+           
+            letter-spacing: 0.1em; 
+            width: fit-content;
+               
+              text-align:center;">
+        <div 
+            style="
+            text-shadow: 0 0 0.6em RGB(0 0 0 / 0.75);">
+            <div 
+                style="font-weight: 600;
+                    font-size: 16px;
+                    padding:6px 10px 3px 10px;">
+油壓髖關節訓練機           </div>
+            <div 
+                style="font-weight: 500;   
+                    padding: 3.5px;
+                      ">
+   
+            </div>
+        </div>
+</div>]]></data>
+  <data name="zh_spotpoint294FrontEndAction|FrontEndAction|callevent_text"><![CDATA[info:sidebar6_E]]></data>
+  <data name="zh_spotpoint295_tooltip"><![CDATA[<div
+        style="
+               border-radius: 5px;
+            color: white;
+             background-color: rgba(0,41,143,0.8);
+           
+            letter-spacing: 0.1em; 
+            width: fit-content;
+               
+              text-align:center;">
+        <div 
+            style="
+            text-shadow: 0 0 0.6em RGB(0 0 0 / 0.75);">
+            <div 
+                style="font-weight: 600;
+                    font-size: 16px;
+                    padding:6px 10px 3px 10px;">
+反式拉背擴胸機          </div>
+            <div 
+                style="font-weight: 500;   
+                    padding: 3.5px;
+                      ">
+   
+            </div>
+        </div>
+</div>]]></data>
+  <data name="zh_spotpoint295FrontEndAction|FrontEndAction|callevent_text"><![CDATA[info:sidebar6_F]]></data>
+  <data name="zh_spotpolygon1146FrontEndAction|FrontEndAction|callevent_text"><![CDATA[info:sidebar6_A]]></data>
+  <data name="zh_spotpolygon1147FrontEndAction|FrontEndAction|callevent_text"><![CDATA[info:sidebar6_B]]></data>
+  <data name="zh_spotpolygon1148FrontEndAction|FrontEndAction|callevent_text"><![CDATA[info:sidebar6_C]]></data>
+  <data name="zh_spotpolygon1149FrontEndAction|FrontEndAction|callevent_text"><![CDATA[info:sidebar6_D]]></data>
+  <data name="zh_spotpolygon1362FrontEndAction|FrontEndAction|callevent_text"><![CDATA[info:sidebar6_E]]></data>
+  <data name="zh_spotpolygon1363FrontEndAction|FrontEndAction|callevent_text"><![CDATA[info:sidebar6_F]]></data>
+
+  <data name="zh_panogroup282_title"><![CDATA[Group 282]]></data>
+
+  <data name="zh_pano279_title"><![CDATA[腫瘤惡化卓越研究中心
+]]></data>
+  <data name="zh_spotpoint285_tooltip"><![CDATA[<div
+        style="
+               border-radius: 5px;
+            color: white;
+             background-color: rgba(0,41,143,0.8);
+           
+            letter-spacing: 0.1em; 
+            width: fit-content;
+               
+              text-align:center;">
+        <div 
+            style="
+            text-shadow: 0 0 0.6em RGB(0 0 0 / 0.75);">
+            <div 
+                style="font-weight: 600;
+                    font-size: 16px;
+                    padding:6px 10px 3px 10px;">
+聚焦式超音波震盪分碎機<br>Covaris E220<br>Focused-ultrasonicator          </div>
+            <div 
+                style="font-weight: 500;   
+                    padding: 3.5px;
+                      ">
+   
+            </div>
+        </div>
+</div>]]></data>
+  <data name="zh_spotpoint285FrontEndAction|FrontEndAction|callevent_text"><![CDATA[info:sidebar3_A]]></data>
+  <data name="zh_spotpoint286_tooltip"><![CDATA[<div
+        style="
+               border-radius: 5px;
+            color: white;
+             background-color: rgba(0,41,143,0.8);
+           
+            letter-spacing: 0.1em; 
+            width: fit-content;
+               
+              text-align:center;">
+        <div 
+            style="
+            text-shadow: 0 0 0.6em RGB(0 0 0 / 0.75);">
+            <div 
+                style="font-weight: 600;
+                    font-size: 16px;
+                    padding:6px 10px 3px 10px;">
+桌上型超高通量定序系統<br>Illumina NextSeq2000<br>Sequencing System    </div>
+            <div 
+                style="font-weight: 500;   
+                    padding: 3.5px;
+                      ">
+   
+            </div>
+        </div>
+</div>]]></data>
+  <data name="zh_spotpoint286FrontEndAction|FrontEndAction|callevent_text"><![CDATA[info:sidebar3_B]]></data>
+  <data name="zh_spotpoint287_tooltip"><![CDATA[<div
+        style="
+               border-radius: 5px;
+            color: white;
+             background-color: rgba(0,41,143,0.8);
+           
+            letter-spacing: 0.1em; 
+            width: fit-content;
+               
+              text-align:center;">
+        <div 
+            style="
+            text-shadow: 0 0 0.6em RGB(0 0 0 / 0.75);">
+            <div 
+                style="font-weight: 600;
+                    font-size: 16px;
+                    padding:6px 10px 3px 10px;">
+高速基因體序列分析系統<br>Illumina HiSeq2500<br>Sequencing System </div>
+            <div 
+                style="font-weight: 500;   
+                    padding: 3.5px;
+                      ">
+   
+            </div>
+        </div>
+</div>]]></data>
+  <data name="zh_spotpoint287FrontEndAction|FrontEndAction|callevent_text"><![CDATA[info:sidebar3_C]]></data>
+  <data name="zh_spotpoint288_tooltip"><![CDATA[<div
+        style="
+               border-radius: 5px;
+            color: white;
+             background-color: rgba(0,41,143,0.8);
+           
+            letter-spacing: 0.1em; 
+            width: fit-content;
+               
+              text-align:center;">
+        <div 
+            style="
+            text-shadow: 0 0 0.6em RGB(0 0 0 / 0.75);">
+            <div 
+                style="font-weight: 600;
+                    font-size: 16px;
+                    padding:6px 10px 3px 10px;">
+個人化新世代定序儀<br>Illumina MiSeq<br>Sequencing System </div>
+            <div 
+                style="font-weight: 500;   
+                    padding: 3.5px;
+                      ">
+   
+            </div>
+        </div>
+</div>]]></data>
+  <data name="zh_spotpoint288FrontEndAction|FrontEndAction|callevent_text"><![CDATA[info:sidebar3_D]]></data>
+  <data name="zh_spotpoint289_tooltip"><![CDATA[<div
+        style="
+               border-radius: 5px;
+            color: white;
+             background-color: rgba(0,41,143,0.8);
+           
+            letter-spacing: 0.1em; 
+            width: fit-content;
+               
+              text-align:center;">
+        <div 
+            style="
+            text-shadow: 0 0 0.6em RGB(0 0 0 / 0.75);">
+            <div 
+                style="font-weight: 600;
+                    font-size: 16px;
+                    padding:6px 10px 3px 10px;">
+桌上型高通量定序系統<br>Illumina NextSeq550<br>Sequencing System </div>
+            <div 
+                style="font-weight: 500;   
+                    padding: 3.5px;
+                      ">
+   
+            </div>
+        </div>
+</div>]]></data>
+  <data name="zh_spotpoint289FrontEndAction|FrontEndAction|callevent_text"><![CDATA[info:sidebar3_E]]></data>
+  <data name="zh_spotpolygon1139FrontEndAction|FrontEndAction|callevent_text"><![CDATA[info:sidebar3_B]]></data>
+  <data name="zh_spotpolygon1140FrontEndAction|FrontEndAction|callevent_text"><![CDATA[info:sidebar3_A]]></data>
+  <data name="zh_spotpolygon1354FrontEndAction|FrontEndAction|callevent_text"><![CDATA[info:sidebar3_C]]></data>
+  <data name="zh_spotpolygon1355FrontEndAction|FrontEndAction|callevent_text"><![CDATA[info:sidebar3_D]]></data>
+  <data name="zh_spotpolygon1356FrontEndAction|FrontEndAction|callevent_text"><![CDATA[info:sidebar3_E]]></data>
+
+  <data name="zh_panogroup284_title"><![CDATA[生醫工程分析實驗室]]></data>
+
+  <data name="zh_pano281_title"><![CDATA[B03]]></data>
+  <data name="zh_spotpoint400_tooltip"><![CDATA[<div
+        style="
+               border-radius: 5px;
+            color: white;
+             background-color: rgba(0,41,143,0.8);
+           
+            letter-spacing: 0.1em; 
+            width: fit-content;
+               
+              text-align:center;">
+        <div 
+            style="
+            text-shadow: 0 0 0.6em RGB(0 0 0 / 0.75);">
+            <div 
+                style="font-weight: 600;
+                    font-size: 16px;
+                    padding:6px 10px 3px 10px;">
+Instron E10000<br>機電雙軸材料動態試驗機 </div>
+            <div 
+                style="font-weight: 500;   
+                    padding: 3.5px;
+                      ">
+   
+            </div>
+        </div>
+</div>]]></data>
+  <data name="zh_spotpoint400FrontEndAction|FrontEndAction|callevent_text"><![CDATA[info:sidebar7_A]]></data>
+  <data name="zh_spotpoint401_tooltip"><![CDATA[<div
+        style="
+               border-radius: 5px;
+            color: white;
+             background-color: rgba(0,41,143,0.8);
+           
+            letter-spacing: 0.1em; 
+            width: fit-content;
+        
+              text-align:center;">
+        <div 
+            style="
+            text-shadow: 0 0 0.6em RGB(0 0 0 / 0.75);">
+            <div 
+                style="font-weight: 600;
+                    font-size: 16px;
+                    padding:6px 10px 3px 10px;">
+HT-2402EC<br>軸向材料靜態試驗機 </div>
+            <div 
+                style="font-weight: 500;   
+                    padding: 3.5px;
+                      ">
+   
+            </div>
+        </div>
+</div>]]></data>
+  <data name="zh_spotpoint401FrontEndAction|FrontEndAction|callevent_text"><![CDATA[info:sidebar7_B]]></data>
+  <data name="zh_spotpoint402_tooltip"><![CDATA[<div
+        style="
+               border-radius: 5px;
+            color: white;
+             background-color: rgba(0,41,143,0.8);
+           
+            letter-spacing: 0.1em; 
+            width: fit-content;
+               
+              text-align:center;">
+        <div 
+            style="
+            text-shadow: 0 0 0.6em RGB(0 0 0 / 0.75);">
+            <div 
+                style="font-weight: 600;
+                    font-size: 16px;
+                    padding:6px 10px 3px 10px;">
+Instron E3000<br>機電軸向材料動態試驗機 </div>
+            <div 
+                style="font-weight: 500;   
+                    padding: 3.5px;
+                      ">
+   
+            </div>
+        </div>
+</div>]]></data>
+  <data name="zh_spotpoint402FrontEndAction|FrontEndAction|callevent_text"><![CDATA[info:sidebar7_C]]></data>
+  <data name="zh_spotpolygon1141FrontEndAction|FrontEndAction|callevent_text"><![CDATA[info:sidebar7_A]]></data>
+  <data name="zh_spotpolygon1143FrontEndAction|FrontEndAction|callevent_text"><![CDATA[info:sidebar7_B]]></data>
+  <data name="zh_spotpolygon1357FrontEndAction|FrontEndAction|callevent_text"><![CDATA[info:sidebar7_C]]></data>
+  <data name="zh_pano280_title"><![CDATA[B02]]></data>
+  <data name="zh_spotpoint403_tooltip"><![CDATA[<div
+        style="
+               border-radius: 5px;
+            color: white;
+             background-color: rgba(0,41,143,0.8);
+           
+            letter-spacing: 0.1em; 
+            width: fit-content;
+               
+              text-align:center;">
+        <div 
+            style="
+            text-shadow: 0 0 0.6em RGB(0 0 0 / 0.75);">
+            <div 
+                style="font-weight: 600;
+                    font-size: 16px;
+                    padding:6px 10px 3px 10px;">
+torque機</div>
+            <div 
+                style="font-weight: 500;   
+                    padding: 3.5px;
+                      ">
+   
+            </div>
+        </div>
+</div>]]></data>
+  <data name="zh_spotpoint403FrontEndAction|FrontEndAction|callevent_text"><![CDATA[info:sidebar7_D]]></data>
+  <data name="zh_spotpoint404_tooltip"><![CDATA[<div
+        style="
+               border-radius: 5px;
+            color: white;
+             background-color: rgba(0,41,143,0.8);
+           
+            letter-spacing: 0.1em; 
+            width: fit-content;
+               
+              text-align:center;">
+        <div 
+            style="
+            text-shadow: 0 0 0.6em RGB(0 0 0 / 0.75);">
+            <div 
+                style="font-weight: 600;
+                    font-size: 16px;
+                    padding:6px 10px 3px 10px;">
+2.5D投影機</div>
+            <div 
+                style="font-weight: 500;   
+                    padding: 3.5px;
+                      ">
+   
+            </div>
+        </div>
+</div>]]></data>
+  <data name="zh_spotpoint404FrontEndAction|FrontEndAction|callevent_text"><![CDATA[info:sidebar7_E]]></data>
+  <data name="zh_spotpolygon1144FrontEndAction|FrontEndAction|callevent_text"><![CDATA[info:sidebar7_D]]></data>
+  <data name="zh_spotpolygon1145FrontEndAction|FrontEndAction|callevent_text"><![CDATA[info:sidebar7_E]]></data>
+
+  <data name="zh_panogroup922_title"><![CDATA[博愛校區]]></data>
+
+  <data name="zh_pano918_title"><![CDATA[校門口]]></data>
+  <data name="zh_spotpoint927_tooltip"><![CDATA[賢齊館]]></data>
+  <data name="zh_spotpoint929_tooltip"><![CDATA[活動中心]]></data>
+  <data name="zh_spotpoint933_tooltip"><![CDATA[<div
+        style="
+               border-radius: 5px;
+            color: white;
+             background-color: rgba(0,41,143,0.8);
+           
+            letter-spacing: 0.1em; 
+            width: fit-content;
+               
+              text-align:center;">
+        <div 
+            style="
+            text-shadow: 0 0 0.6em RGB(0 0 0 / 0.75);">
+            <div 
+                style="font-weight: 600;
+                    font-size: 16px;
+                    padding:6px 10px 3px 10px;">
+ARRC 前瞻火箭研究中心
+</div>
+            <div 
+                style="font-weight: 500;   
+                    padding: 3.5px;
+                      ">
+   
+            </div>
+        </div>
+</div>]]></data>
+  <data name="zh_pano920_title"><![CDATA[賢齊館]]></data>
+  <data name="zh_spotpoint928_tooltip"><![CDATA[校門口]]></data>
+  <data name="zh_spotpoint934_tooltip"><![CDATA[<div
+        style="
+               border-radius: 5px;
+            color: white;
+             background-color: rgba(0,41,143,0.8);
+           
+            letter-spacing: 0.1em; 
+            width: fit-content;
+               
+              text-align:center;">
+        <div 
+            style="
+            text-shadow: 0 0 0.6em RGB(0 0 0 / 0.75);">
+            <div 
+                style="font-weight: 600;
+                    font-size: 16px;
+                    padding:6px 10px 3px 10px;">
+進入齊賢館</div>
+            <div 
+                style="font-weight: 500;   
+                    padding: 3.5px;
+                      ">
+   
+            </div>
+        </div>
+</div>]]></data>
+  <data name="zh_pano917_title"><![CDATA[博愛活動中心]]></data>
+  <data name="zh_spotpoint936_tooltip"><![CDATA[<div
+        style="
+               border-radius: 5px;
+            color: white;
+             background-color: rgba(0,41,143,0.8);
+           
+            letter-spacing: 0.1em; 
+            width: fit-content;
+              text-align:center;">
+        <div 
+            style="
+            text-shadow: 0 0 0.6em RGB(0 0 0 / 0.75);">
+            <div 
+                style="font-weight: 600;
+                    font-size: 16px;
+                    padding:6px 10px 3px 10px;">
+銀髮健身俱樂部</div>
+            <div 
+                style="font-weight: 500;   
+                    padding: 3.5px;
+                      ">
+   
+            </div>
+        </div>
+</div>]]></data>
+  <data name="zh_spotpoint937_tooltip"><![CDATA[賢齊館]]></data>
+  <data name="zh_spotpoint938_tooltip"><![CDATA[校門口]]></data>
+
+
+	<data name="zh_spotmap2321_tooltip"><![CDATA[]]></data>
+	<data name="zh_spotmap2322_tooltip"><![CDATA[]]></data>
+	<data name="zh_spotmap2323_tooltip"><![CDATA[]]></data>
+	<data name="zh_spotmap2324_tooltip"><![CDATA[]]></data>
+	<data name="zh_spotmap2325_tooltip"><![CDATA[]]></data>
+	<data name="zh_spotmap2326_tooltip"><![CDATA[]]></data>
+	<data name="zh_spotmap2327_tooltip"><![CDATA[]]></data>
+	<data name="zh_spotmap2328_tooltip"><![CDATA[]]></data>
+	<data name="zh_spotmap2329_tooltip"><![CDATA[]]></data>
+	<data name="zh_spotmap2330_tooltip"><![CDATA[]]></data>
+
+
+
+
+  <data name="zh_call_out_titlescall_out_style_name"><![CDATA[Default Point Spot Style]]></data>
+  <data name="zh_HotspotStylehotspotName"><![CDATA[mute]]></data>
+  <data name="zh_HotspotStyle1hotspotName"><![CDATA[play]]></data>
+  <data name="zh_call_out_titles1call_out_style_name"><![CDATA[info]]></data>
+  <data name="zh_call_out_titles2call_out_style_name"><![CDATA[info_left]]></data>
+  <data name="zh_CameraControlsame_Speed0"><![CDATA[0.7]]></data>
+  <data name="zh_CameraControlhotspotsName0"><![CDATA[lookElevactor]]></data>
+
+
+  <data name="zh_vr_setup_hmd0"><![CDATA[SELECT YOUR HMD]]></data>
+  <data name="zh_vr_setup_advanced"><![CDATA[ADVANCED SETTINGS]]></data>
+  <data name="zh_vr_setup_title"><![CDATA[WEB VR SETTINGS]]></data>
+  <data name="zh_vr_setup_dvn1"><![CDATA[Device:]]></data>
+  <data name="zh_vr_setup_siz1"><![CDATA[Screen size:]]></data>
+  <data name="zh_vr_setup_ipd1"><![CDATA[IPD:]]></data>
+  <data name="zh_vr_setup_hmd1"><![CDATA[HMD:]]></data>
+  <data name="zh_vr_setup_hmd3"><![CDATA[Customize]]></data>
+  <data name="zh_vr_setup_cal"><![CDATA[Calibrate gyroscope]]></data>
+  <data name="zh_vr_setup_sav"><![CDATA[SAVE]]></data>
+  <data name="zh_vr_setup_rst"><![CDATA[RESET]]></data>
+  <data name="zh_vr_setup_simple"><![CDATA[SIMPLE]]></data>
+  <data name="zh_vr_setup_cls"><![CDATA[CLOSE]]></data>
+  <data name="zh_vr_setup_m31"><![CDATA[HMD SETTINGS]]></data>
+  <data name="zh_vr_setup_fov1"><![CDATA[FOV:]]></data>
+  <data name="zh_vr_setup_dst1"><![CDATA[Distortion:]]></data>
+  <data name="zh_vr_setup_d2tx"><![CDATA[Distortion 2:]]></data>
+  <data name="zh_vr_setup_vig1"><![CDATA[Vignette:]]></data>
+  <data name="zh_vr_setup_cac1"><![CDATA[Chromatic aberration:]]></data>
+  <data name="zh_vr_setup_olp1"><![CDATA[Overlap:]]></data>
+  <data name="zh_vr_setup_m35"><![CDATA[RETURN]]></data>
+  <data name="zh_vr_setup_cb1"><![CDATA[GYROSCOPE]]></data>
+  <data name="zh_vr_setup_cb2"><![CDATA[Place the device on a flat and[br]stable surface and tab CALIBRATE[br]to correct a gyroscope drifting.]]></data>
+  <data name="zh_vr_setup_cb3"><![CDATA[CALIBRATE]]></data>
+  <data name="zh_vr_setup_cb4"><![CDATA[RESET]]></data>
+  <data name="zh_vr_setup_cb5"><![CDATA[RETURN]]></data>
+  <data name="zh_vr_setup_cb6"><![CDATA[Calibrating...]]></data>
+  <data name="zh_vr_setup_cb7"><![CDATA[Successful calibration]]></data>
+  <data name="zh_vr_setup_cb8"><![CDATA[Calibration failed]]></data>
+  <data name="zh_vr_setup_unavailable"><![CDATA[VR mode[br]is unavailable on your device]]></data>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</krpano>
